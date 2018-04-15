@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+Size of Floors - 400x50 by 400x50 = 20000x20000 = 400000 units squared
+
+Goal is to get to staircase to go down to the next floor, eventually getting out the door at the bottom
+
+Optional terminals to give backstory
+
+Items
+Phone - first item
+Crowbar - first level, break objects
+Flares - light dark areas
+Keycard - open locked doors
+Fire Extinguisher - clear the fires to continue
+Chemical Bombs - blow up structures and walls
+Button Guide
+=======
+Size of Floors - 400x50 by 400x50 = 20000x20000 = 400000 units squared
+
+Goal is to get to staircase to go down to the next floor, eventually getting out the door at the bottom
+
+Optional terminals to give backstory
+
+Items
+Phone - first item
+Crowbar - first level, break objects
+Flares - light dark areas
+Keycard - open locked doors
+Fire Extinguisher - clear the fires to continue
+Chemical Bombs - blow up structures and walls
+Button Guide
+>>>>>>> 5f4db2cb8ccdaa833a414504070c3d1f1b033f7d
+Aerosol Spray - maybe for lasers
